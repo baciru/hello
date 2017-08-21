@@ -1,2 +1,3 @@
-# hello
-just a new hello from me
+# hello new
+another way learning git hub
+just trying a tutorial
